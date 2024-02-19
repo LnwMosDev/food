@@ -1,0 +1,6 @@
+
+.selected-place-modal {
+    overflow-y: auto; /* เพิ่มคุณสมบัติการเลื่อนให้เนื้อหาภายใน selectedPlaceModal เมื่อมีข้อมูลเกินขนาด */
+    max-height: 80vh; /* กำหนดสูงสุดของ selectedPlaceModal ให้มีความสูงไม่เกิน 80% ของ viewport */
+  }
+  
